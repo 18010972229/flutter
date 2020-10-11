@@ -1,2 +1,0 @@
-include ':UdeskSDKUI'
-rootProject.name = 'flutter_udesk_plugin'
